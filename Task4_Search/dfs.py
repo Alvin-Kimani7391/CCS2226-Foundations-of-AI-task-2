@@ -26,4 +26,4 @@ def dfs(graph, start, goal, path=[]):
 
 path = dfs(graph, 'A', 'F')
 
-print("DFS Path:", path)
+print("DFS Path:", path)  
